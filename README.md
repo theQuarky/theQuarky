@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Web Technology**
+- 💬 Ask me about **Web Technology or any other exciting technology**
 
 - 📫 How to reach me **ranahiren27@gmail.com**
 
