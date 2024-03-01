@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thequarky" alt="thequarky" /></a> </p>
 
-- 🔭 I’m currently working on [Social media based on audio content](https://github.com/theQuarky/aundre)
-
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **Web Technology or any other exciting technology**
 
