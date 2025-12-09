@@ -25,43 +25,51 @@ I'm an **architect of cognitive systems** and a **compiler theorist** who believ
 
 ---
 
-## 🧬 Core Brain-Inspired Ecosystem
+## 🧬 Core Engineering Systems
 
-My primary research and engineering focus revolves around **cognitive architectures** and **language infrastructure**:
+My work spans two major pillars: **AI/Memory architectures** and **compiler/language infrastructure**:
 
-### 🔬 **Neocortex** · *Multi-LLM Orchestration Engine*
+### 🤖 Brain-Inspired AI Systems
+
+#### 🔬 **Neocortex** · *Multi-LLM Orchestration Engine*
 The executive center — a sophisticated orchestrator that coordinates multiple language models in parallel, inspired by the prefrontal cortex's role in decision-making and reasoning.
 
-### 🧠 **Hippocampus** · *Long-Term Memory Architecture*
+#### 🧠 **Hippocampus** · *Long-Term Memory Architecture*
 A persistent, intelligent memory system that stores, indexes, and retrieves contextual information across sessions. Built to solve the forgetting problem in conversational AI.
 
-### ⚙️ **TSPP-Compiler** · *TypeScript++ Language Toolchain*
-A full-spectrum compiler project exploring type systems, semantic analysis, code generation, and optimization — bridging theory with practical language design.
-
-### 🏛️ **LLM Council** · *Collective Intelligence Framework*
+#### 🏛️ **LLM Council** · *Collective Intelligence Framework*
 An experimental system where multiple specialized AI agents deliberate, vote, and reach consensus on complex problems — mimicking human committee dynamics.
+
+### ⚙️ Compiler & Language Tooling
+
+#### 🔧 **TSPP-Compiler** · *TypeScript++ Language Project*
+A **standalone compiler and programming language** that combines **TypeScript-like syntax** with **C++-level capabilities**. TSPP is designed to help web developers transition into systems programming, compiler design, memory models, and low-level architecture. It bridges the gap between high-level web development and systems engineering, making compiler theory and memory management accessible to JavaScript/TypeScript developers who want to understand how languages work under the hood.
 
 ```mermaid
 graph TD
-    A[🧠 Neocortex<br/>Multi-LLM Orchestrator] --> B[🤖 LLM Council<br/>Consensus Engine]
-    A --> C[🧠 Hippocampus<br/>Memory System]
-    A --> D[⚙️ TSPP Compiler<br/>Language Infrastructure]
+    subgraph AI["🤖 AI/Memory Systems"]
+        A[🧠 Neocortex<br/>Multi-LLM Orchestrator] --> B[🤖 LLM Council<br/>Consensus Engine]
+        A --> C[🧠 Hippocampus<br/>Memory System]
+        B --> E[Specialized Agents]
+        C --> F[Context Store]
+        E --> I[AI Decision Output]
+        F --> I
+    end
     
-    B --> E[Specialized Agents]
-    C --> F[Context Store]
-    D --> G[Type System]
-    D --> H[Code Generation]
-    
-    E --> I[Decision Output]
-    F --> I
-    G --> I
-    H --> I
+    subgraph COMPILER["⚙️ Compiler/Language Systems"]
+        D[🔧 TSPP Compiler<br/>TypeScript++ Language]
+        D --> G[Type System]
+        D --> H[Code Generation]
+        G --> J[Systems Programming Output]
+        H --> J
+    end
     
     style A fill:#667eea,stroke:#764ba2,stroke-width:3px,color:#fff
     style B fill:#f093fb,stroke:#f5576c,stroke-width:2px,color:#fff
     style C fill:#4facfe,stroke:#00f2fe,stroke-width:2px,color:#fff
-    style D fill:#43e97b,stroke:#38f9d7,stroke-width:2px,color:#fff
+    style D fill:#43e97b,stroke:#38f9d7,stroke-width:3px,color:#fff
     style I fill:#fa709a,stroke:#fee140,stroke-width:2px,color:#fff
+    style J fill:#feca57,stroke:#ff9ff3,stroke-width:2px,color:#fff
 ```
 
 ---
@@ -112,12 +120,18 @@ A deep dive into game theory, alpha-beta pruning, heuristic evaluation, and low-
 ```
          ╔════════════════════════════════════════════════════════╗
          ║                                                        ║
-         ║   BRAIN-INSPIRED SYSTEM DESIGN PRINCIPLES              ║
+         ║        SYSTEM DESIGN PRINCIPLES                        ║
          ║                                                        ║
-         ║   1. Memory is not storage — it's retrieval            ║
-         ║   2. Intelligence is orchestration, not computation   ║
-         ║   3. Compilation is transformation with intent        ║
-         ║   4. Systems should learn, not just execute           ║
+         ║   🤖 AI/Memory Systems:                                ║
+         ║      • Memory is not storage — it's retrieval         ║
+         ║      • Intelligence is orchestration, not computation ║
+         ║                                                        ║
+         ║   ⚙️ Compiler/Language Systems:                        ║
+         ║      • Compilation is transformation with intent      ║
+         ║      • Languages should bridge paradigms              ║
+         ║                                                        ║
+         ║   🧠 Universal:                                        ║
+         ║      • Systems should learn, not just execute         ║
          ║                                                        ║
          ╚════════════════════════════════════════════════════════╝
 ```
