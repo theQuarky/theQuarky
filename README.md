@@ -1,27 +1,180 @@
-<h1 align="center">Hi 👋, I'm Hiren Rana</h1>
-<h3 align="center">A technology geek from India...</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thequarky&label=Profile%20views&color=0e75b6&style=flat" alt="thequarky" /> </p>
+# 🧠 **Hiren Rana** · `theQuarky`
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thequarky" alt="thequarky" /></a> </p>
+*Building intelligence from silicon to semantics — where compilers meet consciousness.*
 
-- 🌱 I’m currently learning **AWS**
+[![Profile Views](https://komarev.com/ghpvc/?username=thequarky&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/theQuarky)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ranahiren27?style=for-the-badge&logo=twitter)](https://twitter.com/ranahiren27)
 
-- 💬 Ask me about **Web Technology or any other exciting technology**
+</div>
 
-- 📫 How to reach me **ranahiren27@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ranahiren27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ranahiren27" height="30" width="40" /></a>
-<a href="https://instagram.com/ghost_particle_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ghost_particle_" height="30" width="40" /></a>
-</p>
+## 🎯 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+I'm an **architect of cognitive systems** and a **compiler theorist** who believes that great software mimics the brain's elegance. My work spans the full spectrum from low-level compiler infrastructure to high-level LLM orchestration, unified by a singular vision: **building systems that think, remember, and reason**.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thequarky&show_icons=true&locale=en&layout=compact" alt="thequarky" /></p>
+```
+┌──────────────────────────────────────────────────────────────┐
+│  "Code is thought crystallized; compilers are the bridges    │
+│   between human intent and machine execution."               │
+│                                           — theQuarky        │
+└──────────────────────────────────────────────────────────────┘
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thequarky&show_icons=true&locale=en" alt="thequarky" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thequarky&" alt="thequarky" /></p>
+## 🧬 Core Engineering Systems
+
+My work spans two major pillars: **AI/Memory architectures** and **compiler/language infrastructure**:
+
+### 🤖 Brain-Inspired AI Systems
+
+#### 🔬 **Neocortex** · *Multi-LLM Orchestration Engine*
+The executive center — a sophisticated orchestrator that coordinates multiple language models in parallel, inspired by the prefrontal cortex's role in decision-making and reasoning.
+
+#### 🧠 **Hippocampus** · *Long-Term Memory Architecture*
+A persistent, intelligent memory system that stores, indexes, and retrieves contextual information across sessions. Built to solve the forgetting problem in conversational AI.
+
+#### 🏛️ **LLM Council** · *Collective Intelligence Framework*
+An experimental system where multiple specialized AI agents deliberate, vote, and reach consensus on complex problems — mimicking human committee dynamics.
+
+### ⚙️ Compiler & Language Tooling
+
+#### 🔧 **TSPP-Compiler** · *TypeScript++ Language Project*
+A **standalone compiler and programming language** that combines **TypeScript-like syntax** with **C++-level capabilities**. TSPP is designed to help web developers transition into systems programming, compiler design, memory models, and low-level architecture. It bridges the gap between high-level web development and systems engineering, making compiler theory and memory management accessible to JavaScript/TypeScript developers who want to understand how languages work under the hood.
+
+```mermaid
+graph TD
+    subgraph AI["🤖 AI/Memory Systems"]
+        A[🧠 Neocortex<br/>Multi-LLM Orchestrator] --> B[🤖 LLM Council<br/>Consensus Engine]
+        A --> C[🧠 Hippocampus<br/>Memory System]
+        B --> E[Specialized Agents]
+        C --> F[Context Store]
+        E --> I[AI Decision Output]
+        F --> I
+    end
+    
+    subgraph COMPILER["⚙️ Compiler/Language Systems"]
+        D[🔧 TSPP Compiler<br/>TypeScript++ Language]
+        D --> G[Type System]
+        D --> H[Code Generation]
+        G --> J[Systems Programming Output]
+        H --> J
+    end
+    
+    style A fill:#667eea,stroke:#764ba2,stroke-width:3px,color:#fff
+    style B fill:#f093fb,stroke:#f5576c,stroke-width:2px,color:#fff
+    style C fill:#4facfe,stroke:#00f2fe,stroke-width:2px,color:#fff
+    style D fill:#43e97b,stroke:#38f9d7,stroke-width:3px,color:#fff
+    style I fill:#fa709a,stroke:#fee140,stroke-width:2px,color:#fff
+    style J fill:#feca57,stroke:#ff9ff3,stroke-width:2px,color:#fff
+```
+
+---
+
+## 🏗️ Applications & Backend Systems
+
+### 💬 **Vibe-Match** · *Taste-Based Social Discovery*
+A real-time chat platform that connects people based on aesthetic preferences, interests, and cultural resonance rather than superficial metrics.
+
+### 🔌 **Chat-Service-Backend** · *Scalable WebSocket Infrastructure*
+High-performance backend for real-time messaging, built with horizontal scalability and fault tolerance in mind.
+
+---
+
+## 🎨 Creative Coding & Audio Tools
+
+Engineering meets artistry in these experimental multimedia projects:
+
+### 🎵 **Leaf-Music** · *Interactive Audio Visualizer*
+A creative exploration of generative audio-visual experiences, where music becomes a living, breathing organism.
+
+### 🎧 **Beat-Boxx** · *Rhythm Engine*
+A beat-making playground for crafting rhythms programmatically — code as composition.
+
+### 📺 **Tube-Music** · *Streaming Audio Platform*
+Experimentation with audio streaming architectures and user experience design for music discovery.
+
+---
+
+## ✍️ Writing & Teaching
+
+### 📖 **How to Learn Any Programming Language**
+A meta-guide on language acquisition for developers. Not a tutorial, but a framework for thinking about learning itself—covering syntax patterns, semantic models, and the cognitive process of becoming fluent in new languages.
+
+**Core Philosophy**: *Every language is a dialect of computation; once you understand the universal grammar, learning becomes pattern recognition.*
+
+---
+
+## 🔬 Experiments & Curiosities
+
+### ♟️ **Chess-Engine-in-C** · *Systems & Algorithms at Depth*
+A deep dive into game theory, alpha-beta pruning, heuristic evaluation, and low-level optimization. Chess engines are the perfect sandbox for exploring computational complexity.
+
+---
+
+## 🎨 Architectural Philosophy
+
+```
+         ╔════════════════════════════════════════════════════════╗
+         ║                                                        ║
+         ║        SYSTEM DESIGN PRINCIPLES                        ║
+         ║                                                        ║
+         ║   🤖 AI/Memory Systems:                                ║
+         ║      • Memory is not storage — it's retrieval         ║
+         ║      • Intelligence is orchestration, not computation ║
+         ║                                                        ║
+         ║   ⚙️ Compiler/Language Systems:                        ║
+         ║      • Compilation is transformation with intent      ║
+         ║      • Languages should bridge paradigms              ║
+         ║                                                        ║
+         ║   🧠 Universal:                                        ║
+         ║      • Systems should learn, not just execute         ║
+         ║                                                        ║
+         ╚════════════════════════════════════════════════════════╝
+```
+
+---
+
+## 📊 GitHub Metrics
+
+<div align="center">
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=thequarky&theme=algolia&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thequarky&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thequarky&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0d1117"/>
+</div>
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thequarky&theme=react&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🌐 Connect & Collaborate
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ranahiren27)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ghost_particle_)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranahiren27@gmail.com)
+
+**Open to collaborations on**: Compiler Design · Memory Systems · LLM Orchestration · Cognitive Architectures
+
+</div>
+
+---
+
+<div align="center">
+
+### 🧠 *"The brain doesn't compile — it interprets, adapts, and evolves. Let's build software that does the same."*
+
+</div>
