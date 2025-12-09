@@ -2,7 +2,7 @@
 
 # 🧠 **Hiren Rana** · `theQuarky`
 
-*Building intelligence from silicon to semantics—where compilers meet consciousness.*
+*Building intelligence from silicon to semantics — where compilers meet consciousness.*
 
 [![Profile Views](https://komarev.com/ghpvc/?username=thequarky&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/theQuarky)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ranahiren27?style=for-the-badge&logo=twitter)](https://twitter.com/ranahiren27)
@@ -30,16 +30,16 @@ I'm an **architect of cognitive systems** and a **compiler theorist** who believ
 My primary research and engineering focus revolves around **cognitive architectures** and **language infrastructure**:
 
 ### 🔬 **Neocortex** · *Multi-LLM Orchestration Engine*
-The executive center—a sophisticated orchestrator that coordinates multiple language models in parallel, inspired by the prefrontal cortex's role in decision-making and reasoning.
+The executive center — a sophisticated orchestrator that coordinates multiple language models in parallel, inspired by the prefrontal cortex's role in decision-making and reasoning.
 
 ### 🧠 **Hippocampus** · *Long-Term Memory Architecture*
 A persistent, intelligent memory system that stores, indexes, and retrieves contextual information across sessions. Built to solve the forgetting problem in conversational AI.
 
 ### ⚙️ **TSPP-Compiler** · *TypeScript++ Language Toolchain*
-A full-spectrum compiler project exploring type systems, semantic analysis, code generation, and optimization—bridging theory with practical language design.
+A full-spectrum compiler project exploring type systems, semantic analysis, code generation, and optimization — bridging theory with practical language design.
 
 ### 🏛️ **LLM Council** · *Collective Intelligence Framework*
-An experimental system where multiple specialized AI agents deliberate, vote, and reach consensus on complex problems—mimicking human committee dynamics.
+An experimental system where multiple specialized AI agents deliberate, vote, and reach consensus on complex problems — mimicking human committee dynamics.
 
 ```mermaid
 graph TD
@@ -84,7 +84,7 @@ Engineering meets artistry in these experimental multimedia projects:
 A creative exploration of generative audio-visual experiences, where music becomes a living, breathing organism.
 
 ### 🎧 **Beat-Boxx** · *Rhythm Engine*
-A beat-making playground for crafting rhythms programmatically—code as composition.
+A beat-making playground for crafting rhythms programmatically — code as composition.
 
 ### 📺 **Tube-Music** · *Streaming Audio Platform*
 Experimentation with audio streaming architectures and user experience design for music discovery.
@@ -114,7 +114,7 @@ A deep dive into game theory, alpha-beta pruning, heuristic evaluation, and low-
          ║                                                        ║
          ║   BRAIN-INSPIRED SYSTEM DESIGN PRINCIPLES              ║
          ║                                                        ║
-         ║   1. Memory is not storage—it's retrieval             ║
+         ║   1. Memory is not storage — it's retrieval            ║
          ║   2. Intelligence is orchestration, not computation   ║
          ║   3. Compilation is transformation with intent        ║
          ║   4. Systems should learn, not just execute           ║
@@ -161,6 +161,6 @@ A deep dive into game theory, alpha-beta pruning, heuristic evaluation, and low-
 
 <div align="center">
 
-### 🧠 *"The brain doesn't compile—it interprets, adapts, and evolves. Let's build software that does the same."*
+### 🧠 *"The brain doesn't compile — it interprets, adapts, and evolves. Let's build software that does the same."*
 
 </div>
